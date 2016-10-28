@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidAlertDialoge</string>
+    <string name="yes_button_clicked">Yes Button clicked</string>
+    <string name="no_button_clicked">No Button clicked</string>
+    <string name="show_alert_with_two_button">Show Alert with Two Button</string>
+    <string name="create_alert">Create Alert</string>
+</resources>
